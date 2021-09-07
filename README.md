@@ -6,16 +6,16 @@ Real-Time Meetup RSPV Data Processing from https://www.meetup.com/. Real-Time An
 
 ## Technologies Used
 
-.Kafka 2.8
+. Kafka 2.8
 
-.Spark 2.4.5
+. Spark 2.4.5
 
-.Data Feeds: Kafka
+. Data Feeds: Kafka
 
-.ETL: Spark DataFrame, Spark Structured Streaming
+. ETL: Spark DataFrame, Spark Structured Streaming
 
-.Data Storage: Hdfs, S3
+. Data Storage: Hdfs, S3
 
-.Resource Management: Yarn
+. Resource Management: Yarn
 
-.Kafka Python API is used to interact with kafka cluster. PySpark is used to write the spark streaming jobs.
+. Kafka Python API is used to interact with kafka cluster. PySpark is used to write the spark streaming jobs.
