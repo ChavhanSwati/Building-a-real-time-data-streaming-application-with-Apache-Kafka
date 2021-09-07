@@ -48,3 +48,12 @@ Spark Streaming integeration with kafka 0.10.0.0 and above, is still in experime
 7. Spark depends on a external package for kafka integeration link
 
 8. bin/spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.0.1 spark_meetup.py localhost:2181 meetup An analysis of number of RSVPs from various cities in "US" region is performed on the RSVPs Stream.
+
+
+## References 
+
+https://mvnrepository.com/artifact/org.apache.spark/spark-streaming-kafka-0-8_2.11/2.0.1)
+
+http://spark.apache.org/docs/latest/streaming-kafka-integration.html
+
+https://stream.meetup.com/2/rsvps
